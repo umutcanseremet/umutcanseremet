@@ -1,7 +1,7 @@
 <h3>Connect with me:</h3>
 <p>
     <a target="_blank" href="https://instagram.com/umutcanseremet"><img src="https://skillicons.dev/icons?i=instagram"></a>
-    <a target="_blank" href="https://linkedin.com/in/umutcanseremet"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+    <a target="_blank" href="https://linkedin.com/in/umutcanşeremet"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
 <h3>Languages and Tools:</h3>
